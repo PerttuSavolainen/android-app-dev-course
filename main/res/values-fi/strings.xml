@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hei Android</string>
+    <string name="hello_world_land">Hei Android vaakatasosta!</string>
+    <string name="another_string">Tässä on täytetekstiä...</string>
+</resources>

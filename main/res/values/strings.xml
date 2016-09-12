@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="hello_world_land">Hello Android from landscape!</string>
+    <string name="another_string">Here is an another sample text...</string>
+</resources>
